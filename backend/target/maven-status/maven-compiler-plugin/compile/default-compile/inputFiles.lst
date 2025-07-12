@@ -1,0 +1,8 @@
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/model/ScanRequest.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/service/ExportService.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/MetaTagScannerApplication.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/controller/MetaTagController.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/model/MetaTag.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/model/MetaTagFilter.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/service/MetaTagScannerService.java
+/Users/mac/Documents/VTS/tasks/Audit_Website_VTS/tools/backend/src/main/java/com/vts/metascanner/model/ScanResponse.java
