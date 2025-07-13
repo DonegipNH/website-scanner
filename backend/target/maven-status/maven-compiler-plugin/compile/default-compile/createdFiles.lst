@@ -1,8 +1,0 @@
-com/vts/metascanner/service/MetaTagScannerService.class
-com/vts/metascanner/model/MetaTag.class
-com/vts/metascanner/model/ScanResponse.class
-com/vts/metascanner/MetaTagScannerApplication.class
-com/vts/metascanner/model/MetaTagFilter.class
-com/vts/metascanner/service/ExportService.class
-com/vts/metascanner/controller/MetaTagController.class
-com/vts/metascanner/model/ScanRequest.class
